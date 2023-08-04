@@ -13,7 +13,7 @@ import {
 
 export const greetings: GreetingsType = {
   name: 'Rajesh dev',
-  title: "Hi all, I'm Rajesh",
+  title: "Hi , I'm Rajesh",
   description: `As a passionate React developer with a focus on web applications using React.js and Next.js, I am constantly driven by my love for creating amazing things. With a strong appetite for learning, I eagerly explore new technologies and seek opportunities to enhance my skills. I take pride in delivering elegant and efficient solutions and always stay up-to-date with the latest trends in the React ecosystem. Let's connect and delve deeper into my exciting journey as a React enthusiast!
     `,
 
