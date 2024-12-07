@@ -47,7 +47,7 @@ export const skillsSection: SkillsSectionType = {
       lottieAnimationFile: '/lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
       skills: [
         emoji(`👋 Hello, world of web wonders! I'm a front-end virtuoso, specializing in crafting captivating user experiences with the power of React.js and Next.js.
-         With 1.5 years of hands-on experience, 
+         With 2.5 years of hands-on experience, 
         I've honed my skills to create both single-page and multi-page applications that are as responsive as they are dynamic.`),
         emoji(`⚡ My journey begins with mastering the art of sculpting sleek single-page marvels,
          with a touch of magic from progressive web apps – all orchestrated by the symphony of React.js. 
